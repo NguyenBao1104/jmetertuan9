@@ -1,6 +1,6 @@
 BÁO CÁO KIỂM THỬ HIỆU SUẤT JMETER
 Ngày Kiểm Thử: 01/07/2025
-Người Kiểm Thử: Vũ Minh Hiếu
+Người Kiểm Thử: Nguyễn Công Bảo
 
 1. Mục Tiêu Kiểm Thử
 Sử dụng JMeter để kiểm tra hiệu năng trang web Qldt Phenikaa.
